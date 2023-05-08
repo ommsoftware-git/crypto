@@ -1,0 +1,394 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .container {
+    width: 450px;
+  }
+}
+
+/* ================================================================ */
+
+@media (max-width: 570px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 560px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 540px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 520px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 460px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 440px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 420px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 400px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
+@media (max-width: 340px) {
+  .about-area {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+  }
+  .about-area-mission {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+  }
+  .journey-col-1 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .journey-col-2 {
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    margin-right: 0rem !important;
+  }
+  .journey-col-3 {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    margin-left: 0rem !important;
+  }
+  .single-testimonial {
+    border-radius: 0px !important;
+  }
+}
